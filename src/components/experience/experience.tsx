@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { MdLocationPin, MdOutlineEditCalendar } from 'react-icons/md';
 import LocalesEN from '../../locales/en/translation.json';
 import LocalesES from '../../locales/es/translation.json';
-import { BsCheck, BsCheck2, BsCheck2Circle } from 'react-icons/bs';
+import { BsCheck2Circle } from 'react-icons/bs';
 
 interface ExperienceCardProps {
 	dateFrom: Date;
