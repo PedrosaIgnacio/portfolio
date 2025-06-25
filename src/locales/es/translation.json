@@ -1,0 +1,95 @@
+{
+	"navbar": {
+		"me": "Ignacio Pedrosa",
+		"items": {
+			"home": "Inicio",
+			"tech": "Tecnologías",
+			"experience": "Experiencia",
+			"projects": "Proyectos",
+			"language": "🇦🇷 ES"
+		}
+	},
+	"home": {
+		"profile": {
+			"position": "Desarrollador Fullstack",
+			"available_chip": "Disponible para nuevos proyectos",
+			"description": "Con +4 años de experiencia, me dedico al desarrollo de software funcional usando tecnologías modernas, con el objetivo de resolver necesidades reales desde un enfoque de producto, aplicando prácticas de codigo limpio, patrones de diseño y arquitectura, y contribuyendo siempre a una buena experiencia de usuario."
+		},
+		"buttons": {
+			"github": "Github",
+			"email": "Contáctame"
+		},
+		"technologies": {
+			"title": "Tecnologías y habilidades",
+			"description": "Estas son algunas de las tecnologías que considero mas importantes, y con las que trabajo habitualmente a la hora de realizar un desarrollo productivo",
+			"skills": "Tecnologías",
+			"abilities": "Habilidades",
+			"languages": "Lenguajes de Programación",
+			"frameworks": "Frameworks",
+			"libraries": "Librerías"
+		},
+		"experience": {
+			"title": "Experiencia",
+			"key_achievements": "Logros Clave:",
+			"items": [
+				{
+					"dateFrom": "2024-07-01T03:00:00.000Z",
+					"dateTo": "2025-03-01T03:00:00.000Z",
+					"jobCompany": "Nexup",
+					"jobLocation": "Buenos Aires, AR (Remote)",
+					"jobPosition": "Desarrollador frontend semi senior avanzado",
+					"jobDescription": "Desarrollé diversas funcionalidades en un sistema web del rubro Salud, contribuyendo en la planificación y estimación de tareas, con un pensamiento crítico y enfoque orientado en la experiencia de usuario. También contribuí en la resolución de bugs, creación y actualización de componentes de la mano de un gran equipo de diseño.",
+					"jobAchivements": [
+						"Resolví +100 Issues",
+						"Desarrollé componentes en Storybook",
+						"Aprendí muchas prácticas de código limpio"
+					]
+				},
+				{
+					"dateFrom": "2023-10-01T03:00:00.000Z",
+					"dateTo": "2024-07-01T03:00:00.000Z",
+					"jobCompany": "No Nerds No Problem",
+					"jobLocation": "New York, US (Remote)",
+					"jobPosition": "Semi senior frontend developer",
+					"jobDescription": "Migré una aplicación web del sector salud a una plataforma móvil utilizando React Native y Expo. Implementé integraciones con Google Fit y Health Kit, con el objetivo de realizar un seguimiento de ciertos parámetros relevantes para realizar conclusiones basadas en datos, logrando una experiencia de usuario fluida. Coordiné despliegues para App Store y Google Play.",
+					"jobAchivements": ["Aprendí Expo framework", "Realicé tareas con gestos nativos", "Lideré un proyecto"]
+				},
+				{
+					"dateFrom": "2023-01-01T03:00:00.000Z",
+					"dateTo": "2023-10-01T03:00:00.000Z",
+					"jobCompany": "Global Think Technology",
+					"jobLocation": "Córdoba, AR (Hybrid)",
+					"jobPosition": "Desarrollador frontend semi senior ",
+					"jobDescription": "",
+					"jobAchivements": [
+						"Lideré un proyecto",
+						"Aprendí React Native",
+						"Deployé una aplicación en App Store y Play Store"
+					]
+				},
+				{
+					"dateFrom": "2022-07-01T03:00:00.000Z",
+					"dateTo": "2023-01-01T03:00:00.000Z",
+					"jobCompany": "Innovasoft",
+					"jobLocation": "San José, CR (Remote)",
+					"jobPosition": "Desarrollador fullstack junior",
+					"jobDescription": "",
+					"jobAchivements": ["Fortalecí mis conocimientos de React"]
+				},
+				{
+					"dateFrom": "2021-06-01T03:00:00.000Z",
+					"dateTo": "2022-06-01T03:00:00.000Z",
+					"jobCompany": "Encode SA",
+					"jobLocation": "Córdoba, AR (Hybrid)",
+					"jobPosition": "Desarrollador fullstack junior",
+					"jobDescription": "",
+					"jobAchivements": ["Construí una API (.NET Core 5)", "Realicé y aprendí sobre procedimientos almacenados"]
+				}
+			]
+		},
+		"projects": {
+			"title": "Proyectos",
+			"description": ""
+		}
+	}
+}
