@@ -1,6 +1,5 @@
 import { Tech } from '@/components/tech/tech';
 import { Experience } from '@/components/experience/experience';
-import { Projects } from '@/components/projects/projects';
 import { Profile } from '@/components/profile/profile';
 
 export const HomePage = () => {
@@ -9,7 +8,6 @@ export const HomePage = () => {
 			<Profile />
 			<Tech />
 			<Experience />
-			<Projects />
 		</div>
 	);
 };

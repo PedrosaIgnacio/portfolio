@@ -17,7 +17,8 @@
 		},
 		"buttons": {
 			"github": "Github",
-			"email": "Contáctame"
+			"email": "Contáctame",
+			"linkedin": "Linkedin"
 		},
 		"technologies": {
 			"title": "Tecnologías y habilidades",
@@ -59,8 +60,8 @@
 					"dateTo": "2023-10-01T03:00:00.000Z",
 					"jobCompany": "Global Think Technology",
 					"jobLocation": "Córdoba, AR (Hybrid)",
-					"jobPosition": "Desarrollador frontend semi senior ",
-					"jobDescription": "",
+					"jobPosition": "Desarrollador frontend semi senior",
+					"jobDescription": "Desarrollé una aplicación móvil y una aplicación web orientadas a la integración de canales de comunicación, con el objetivo de automatizar procesos, utilizando React y React Native. Implementé sistemas de diseño como Material UI para estandarizar componentes y mejorar la velocidad de desarrollo, colaborando activamente con el equipo de diseño. Participé activamente en la planificación de sprints y refinamiento de historias de usuario.",
 					"jobAchivements": [
 						"Lideré un proyecto",
 						"Aprendí React Native",
@@ -73,7 +74,7 @@
 					"jobCompany": "Innovasoft",
 					"jobLocation": "San José, CR (Remote)",
 					"jobPosition": "Desarrollador fullstack junior",
-					"jobDescription": "",
+					"jobDescription": "Llevé a cabo el desarrollo de funcionalidades en una plataforma educativa, mejorando el rendimiento general. Diseñé y desarrollé soluciones frontend siguiendo prácticas ágiles (SCRUM). Implementé procedimientos almacenados y optimizaciones de consultas en bases de datos SQL.",
 					"jobAchivements": ["Fortalecí mis conocimientos de React"]
 				},
 				{
@@ -82,7 +83,7 @@
 					"jobCompany": "Encode SA",
 					"jobLocation": "Córdoba, AR (Hybrid)",
 					"jobPosition": "Desarrollador fullstack junior",
-					"jobDescription": "",
+					"jobDescription": "Diseñé e implementé API REST para una aplicación del sector salud. Colaboré en el desarrollo de diversas funcionalidades web utilizando React. Realicé un análisis y optimización de una base de datos en SQL Server.",
 					"jobAchivements": ["Construí una API (.NET Core 5)", "Realicé y aprendí sobre procedimientos almacenados"]
 				}
 			]

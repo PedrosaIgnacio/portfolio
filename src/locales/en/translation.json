@@ -17,7 +17,8 @@
 		},
 		"buttons": {
 			"github": "Github",
-			"email": "Get in touch"
+			"email": "Get in touch",
+			"linkedin": "Linkedin"
 		},
 		"technologies": {
 			"title": "Skills & Technologies",
@@ -38,7 +39,7 @@
 					"jobCompany": "Nexup",
 					"jobLocation": "Buenos Aires, AR (Remote)",
 					"jobPosition": "Semi senior advanced frontend developer",
-					"jobDescription": "I developed some functionalities in a web-based healthcare system, contributing to task planning and estimation, with critical thinking and a focus on user experience. I also contributed to bug fixes and component creation and updates alongside an excellent design team.",
+					"jobDescription": "I developed some functionalities in a web-based healthcare system, contributing to task planning and estimation, with critical thinking and a focus on user experience. I also contributed to bug fixes and component creation and updates alongside an excellent design team",
 					"jobAchivements": ["Resolve +100 Issues", "Make Storybook components", "Learn some clean code practices"]
 				},
 				{
@@ -47,7 +48,7 @@
 					"jobCompany": "No Nerds No Problem",
 					"jobLocation": "New York, US (Remote)",
 					"jobPosition": "Semi senior frontend developer",
-					"jobDescription": "I migrated a healthcare web app to a mobile platform using React Native and Expo. I implemented integrations with Google Fit and Health Kit to monitor relevant metrics and draw data-driven insights, achieving a seamless user experience. I coordinated deployments for the App Store and Google Play.",
+					"jobDescription": "I migrated a healthcare web app to a mobile platform using React Native and Expo. I implemented integrations with Google Fit and Health Kit to monitor relevant metrics and draw data-driven insights, achieving a seamless user experience. I coordinated deployments for the App Store and Google Play",
 					"jobAchivements": ["Learn Expo framework", "Make native gestures", "I lead a project"]
 				},
 				{
@@ -56,7 +57,7 @@
 					"jobCompany": "Global Think Technology",
 					"jobLocation": "Córdoba, AR (Hybrid)",
 					"jobPosition": "Semi senior frontend developer",
-					"jobDescription": "",
+					"jobDescription": "I developed a mobile app and a web app focused on integrating communication channels, with the goal of automating processes, using React and React Native. I implemented design systems such as Material UI to standardize components and optimize development, actively collaborating with the design team. I actively participated in sprint planning and user story refinement",
 					"jobAchivements": ["I lead a project", "Learn React Native"]
 				},
 				{
@@ -65,7 +66,7 @@
 					"jobCompany": "Innovasoft",
 					"jobLocation": "San José, CR (Remote)",
 					"jobPosition": "Junior fullstack developer",
-					"jobDescription": "",
+					"jobDescription": "I developed functionalities for an educational platform, improving overall performance. I designed and developed front-end solutions following agile practices (SCRUM). I implemented stored procedures and query optimizations in SQL databases",
 					"jobAchivements": ["I strengthened my knowledge in React"]
 				},
 				{
@@ -74,7 +75,7 @@
 					"jobCompany": "Encode SA",
 					"jobLocation": "Córdoba, AR (Hybrid)",
 					"jobPosition": "Junior fullstack developer",
-					"jobDescription": "",
+					"jobDescription": "I designed and implemented a REST API for a healthcare application. I collaborated on the development of various web features using React. I performed analysis and optimization of a SQL Server database",
 					"jobAchivements": ["Make API (.NET Core 5)", "I make and learn stored procedures"]
 				}
 			]

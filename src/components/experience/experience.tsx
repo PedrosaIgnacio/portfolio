@@ -31,6 +31,7 @@ const ExperienceCard: FC<ExperienceCardProps> = ({
 			month: '2-digit',
 		});
 	};
+
 	return (
 		<div className="flex flex-col gap-4 border border-gray-700 bg-app-secondary rounded-md p-8 shadow-md hover:shadow-2xl transition-all duration-300">
 			<div className="flex justify-between items-center">

@@ -27,10 +27,6 @@ const NAVBAR_ITEMS: NavbarItem[] = [
 		name: 'navbar.items.experience',
 		path: '#experience',
 	},
-	{
-		name: 'navbar.items.projects',
-		path: '#projects',
-	},
 ];
 
 const NavbarItem: FC<NavbarItemProps> = ({ name, path, onClick, className }) => {

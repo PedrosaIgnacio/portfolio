@@ -14,8 +14,8 @@ interface ChipItemProps {
 const ChipItem: FC<ChipItemProps> = ({ label, color }) => {
 	return (
 		<div className="flex gap-3 items-center rounded-full bg-app-secondary px-3 py-1 w-fit">
-			<div className={`w-2 h-2 rounded-full bg-[${color}]`} />
-			<span className="text-sm font-semibold leading-relaxed text-gray-400 ">{label}</span>
+			<div className={`w-2 h-2 rounded-full`} style={{ backgroundColor: color }} />
+			<span className="text-sm font-semibold leading-relaxed text-gray-400">{label}</span>
 		</div>
 	);
 };

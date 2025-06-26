@@ -3,12 +3,14 @@ import { useTranslation } from 'react-i18next';
 import { Button } from '@/components/ui/button';
 import { BsGithub } from 'react-icons/bs';
 import { MdEmail } from 'react-icons/md';
+import { FaLinkedin } from 'react-icons/fa';
 
 export const Profile = () => {
 	const { t } = useTranslation();
 
 	const handleClickGithubAccount = () => window.open('https://github.com/PedrosaIgnacio');
 	const handleClickEmailAccount = () => window.open('mailto:ipedrosa.dev@gmail.com');
+	const handleClickLinkedinAccount = () => window.open('https://www.linkedin.com/in/pedrosaignacio/');
 
 	const position_words: string[] = t('home.profile.position').split(' ');
 	const colors = ['text-white', 'text-indigo-500'];
@@ -39,6 +41,10 @@ export const Profile = () => {
 						<Button onClick={handleClickEmailAccount}>
 							{t('home.buttons.email')}
 							<MdEmail />
+						</Button>
+						<Button onClick={handleClickLinkedinAccount}>
+							{t('home.buttons.linkedin')}
+							<FaLinkedin />
 						</Button>
 					</div>
 				</div>
